@@ -1,4 +1,4 @@
-# Skylark
+# Skylark Common
 A block-based WikiHouse timber building system, developed for 1-3 storey construction.
 For more information, product guides, and support services please visit www.wikihouse.cc
 
